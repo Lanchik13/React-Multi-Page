@@ -1,0 +1,15 @@
+.about {
+  background-color: white;
+}
+
+.about .intro {
+  background-color: #1ec1d8;
+}
+
+.about .content {
+  border: 1rem solid #1ec1d8;
+}
+
+.about .container {
+  border: 1rem solid #f7c49d;
+}

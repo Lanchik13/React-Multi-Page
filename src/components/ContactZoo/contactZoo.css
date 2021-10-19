@@ -1,0 +1,34 @@
+.contactZoo .intro {
+  background-color: #7a0e10;
+}
+
+.contactZoo .content {
+  border: 1rem solid #7a0e10;
+}
+
+.contactZoo .pictures {
+  padding-top: 1rem;
+  width: 20%;
+}
+
+.btn {
+  padding: 1rem 1rem;
+  margin: 1rem 0.5rem;
+  background-color: #7a0e10;
+  border-radius: 2rem
+}
+.btn-inc {
+  background-color: #F98D73;
+}
+.btn-dec {
+  background-color: #bb6655;
+}
+.btn-rnd {
+  background-color: #D96573;
+}
+
+.counter {
+  font-size: 40px;
+  font-weight: bold;
+  color: #7a0e10;
+}
